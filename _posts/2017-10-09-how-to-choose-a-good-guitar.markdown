@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的爱人
+title: How to choose a good guitar
 date: 2017-10-09 17:34:27 +0300
 img: 2.jpg
 tags: [Music, Shopping, Guitar]
